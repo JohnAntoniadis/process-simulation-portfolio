@@ -29,5 +29,5 @@ This repository showcases selected academic process simulation work developed in
 These materials are **academic** and shared for portfolio purposes. No proprietary industrial data is included. UniSim simulation files are not provided; only exported diagrams and summaries are included.
 
 ## Contact
-- LinkedIn: (add your URL)
+- LinkedIn: https://www.linkedin.com/in/ioannis-antoniadis-27a0403b2/
 - Email: antoniadisj123@gmail.com
