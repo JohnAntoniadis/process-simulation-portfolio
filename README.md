@@ -31,3 +31,6 @@ These materials are **academic** and shared for portfolio purposes. No proprieta
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ioannis-antoniadis-27a0403b2/
 - Email: antoniadisj123@gmail.com
+
+![Process Simulation](https://img.shields.io/badge/Process-Simulation-blue)
+![Aspen UniSim](https://img.shields.io/badge/Software-Aspen%20UniSim-1f77b4)
